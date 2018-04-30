@@ -1,2 +1,2 @@
 <?php
-echo "Hello OpenShift";
+echo "Hello OpenShift Again";
